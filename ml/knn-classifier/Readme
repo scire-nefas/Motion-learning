@@ -1,0 +1,9 @@
+The executable needs opencv functions.
+run ./digitRecon or./digitRecon <input image file name>
+wait for testing to happen this may take 10 - 15 seconds... be patient 
+The programme will output varoius modes it can run in
+The programme has 3 modes
+1) where it reads the MNIST test data and outputs the error rate. This will keep on printing out some stuff so that you know that it is actually running. This mode will take some time to complete.
+2)This mode is where you can give in a image file and check what it is. The method may not be really robust..
+3) In this mode An input pad is displayed where you can draw a digit using mouse. and then press enter. The output will be displayed on the image...
+To exit this mode press esc.
